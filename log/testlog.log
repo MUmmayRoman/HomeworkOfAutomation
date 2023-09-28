@@ -1,0 +1,22 @@
+2023-07-19 16:11:00,880 - Log4jExample -INFO - The number of rows in an excel sheet are: 3
+2023-07-19 16:11:02,011 - Log4jExample -INFO - Username : mngr516141
+2023-07-19 16:11:04,843 - Log4jExample -INFO - Password : enumUvY
+2023-07-19 16:11:09,862 - Log4jExample -INFO - Manger Id : mngr516141
+2023-07-19 16:11:14,234 - Log4jExample -INFO - You Have Succesfully Logged Out!!
+2023-07-19 16:11:16,273 - Log4jExample -INFO - Username : mngr516144
+2023-07-19 16:11:18,477 - Log4jExample -INFO - Password : YbAtUtY
+2023-07-19 16:11:23,442 - Log4jExample -INFO - Manger Id : mngr516144
+2023-07-19 16:11:27,926 - Log4jExample -INFO - You Have Succesfully Logged Out!!
+2023-07-19 16:11:29,953 - Log4jExample -INFO - Username : mngr516147
+2023-07-19 16:11:32,200 - Log4jExample -INFO - Password : ytEgytA
+2023-07-19 16:11:37,368 - Log4jExample -INFO - Manger Id : mngr516147
+2023-07-19 16:11:41,981 - Log4jExample -INFO - You Have Succesfully Logged Out!!
+2023-07-19 16:11:46,566 - Log4jExample -INFO - Browser Closed
+2023-07-20 12:11:06,928 - Log4jExample -INFO - The number of rows in an excel sheet are: 3
+2023-07-20 12:11:08,131 - Log4jExample -INFO - Username : mngr516141
+2023-07-20 12:11:10,461 - Log4jExample -INFO - Enter the Username : mngr516141
+2023-07-20 12:11:10,461 - Log4jExample -INFO - Password : enumUvY
+2023-07-20 12:11:12,659 - Log4jExample -INFO - Enter the Password : enumUvY
+2023-07-20 12:11:15,605 - Log4jExample -INFO - Click on the login button
+2023-07-20 12:11:15,656 - Log4jExample -INFO - Manger Id : mngr516141
+2023-07-20 12:11:17,659 - Log4jExample -INFO - Fetch the username from the screen

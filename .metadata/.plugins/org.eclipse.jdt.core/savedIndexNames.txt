@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Roman's_WorkPlace\Selenium\Automation_Workspace\Home_Work\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
